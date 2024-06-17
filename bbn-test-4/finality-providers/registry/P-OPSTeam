@@ -1,0 +1,15 @@
+{
+  "description": {
+    "moniker": "P-OPS Team",
+    "identity": "A2B9CAA088770EA6",
+    "website": "https://pops.one",
+    "security_contact": "security@pops.one",
+    "details": "P-OPS TEAM is a decentralized organization providing you with validation and staking services, blockchain consultation, growth acceleration and investment capital for innovative Web 3.0 projects."
+  },
+  "btc_pk": "ba2fb5170a6ffe4ee09922321f1054f08879344d4ff77c28a5ace0c29cef1e14",
+  "commission": "0.05",
+  "deposit": {
+    "tx_hash": "bd4a7e6be65aeb752c4b7d5564bb0bbb48804554c5ff9ba0c8e1340a4cd9596c",
+    "signed_tx": "02000000000102717da92d025288132f983974ff292edf6d6e61f0288418a5103be026e33ab4940000000000fdffffffbcded80abbcadfca11c8991de727708a6fe2c2c704e1410b1c411f58d9138d130000000000fdffffff03809698000000000022512098a6ad6e336b8b7a9b51dd2efffc5b09b63e2de7aaea19c6c21dfd3665a0b32b468c5b00000000002251201805aaa7e9326436f8a99806d5e11c4f20a9765d9a268833976adaf5a503dccd0000000000000000496a476262743400ba2fb5170a6ffe4ee09922321f1054f08879344d4ff77c28a5ace0c29cef1e14ab4b3b5e9c4a0f320acd3c8cffe51f57cef9db97ce9439e814503d9bcafe6ad2cd5002473044022071d8241f52835ade43b95d1c1a22f907144b001f016db6ccc2b21b46f5f7d5b1022074bd744e7a196dcc7e64d1f7bb5aae0b00f610ed51a1033e70cdd77784f1ce89012103d58f7b009dd4347f55b43ffc5e6ada28fef63a98242cddeb9cc88f6a4219de950247304402203a13d3d4ccdbb824dee9372aaee9d95d2dfd5389efe48f8dfdbdb30cc35c5488022033cd81d69e04b66a40937621d882e8570b9d195da1aed2d6ffd13be1baea2ee1012103d58f7b009dd4347f55b43ffc5e6ada28fef63a98242cddeb9cc88f6a4219de9500000000"
+  }
+}
